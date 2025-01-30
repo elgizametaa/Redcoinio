@@ -1,12 +1,4 @@
 [
-    {
-    "id": 12,
-    "url": "https://t.me/boinker_bot/boinkapp?startapp=boink6657246146campRedCoin",
-    "reward": 5000,
-    "description": "Play Boinkers",
-    "image": "i/IMG_20250124_185905_542.jpg", 
-    "category": "Main" 
-  },
   {
     "id": 1,
     "url": "https://t.me/Redcommunityio",
@@ -22,23 +14,7 @@
     "description": "Follow Red On X ",
     "image": "i/red.jpg", 
     "category": "Main" 
-  },
-  {
-    "id": 3,
-    "url": "https://t.me/addlist/cZaAH6Y-nrljNDQ8",
-    "reward": 5000,
-    "description": "Join Saw community ",
-    "image": "i/500.png", 
-    "category": "Partners" 
-  },
-  {
-    "id": 4,
-    "url": "https://t.me/SAWCOIN_BOT/GAME",
-    "reward": 5000,
-    "description": "Join Saw token Game ",
-    "image": "i/500.png", 
-    "category": "Partners" 
-  },
+  },  
   {
     "id": 5,
     "url": "https://t.me/Rex_CoinBot?start=ref_6657246146",
@@ -55,28 +31,12 @@
     "image": "i/IMG_20250122_191923_975.jpg", 
     "category": "Partners" 
   },
-  {
-    "id": 8,
-    "url": "https://t.me/oinkcoinbot/?start=6657246146",
-    "reward": 5000,
-    "description": "Play OinkCoin",
-    "image": "i/IMG_20250123_032815_599.jpg", 
-    "category": "Partners" 
-  },
-  {
-    "id": 19,
-    "url": "https://x.com/Redcommunityio/status/1883182097562476883?t=w1E1hFM-WbZBmlZ7AbV_og&s=19",
-    "reward": 5000,
-    "description": "Like - Retweet",
-    "image": "i/تنزيل.png", 
-    "category": "Main" 
-  }, 
    {
     "id": 8,
     "url": "https://t.me/Dollarsfromtelegram",
     "reward": 5000,
     "description": "Join Dollars to Cash Channel",
-    "image": "i/IMG_20250123_032815_599.jpg", 
+    "image": "i/IMG_20250130_211438_058.jpg", 
     "category": "Main" 
   }
 ]
