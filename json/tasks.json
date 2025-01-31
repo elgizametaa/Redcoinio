@@ -110,5 +110,13 @@
     "description": "Join Storm Trade News",
     "image": "i/IMG_20250131_161109_656.png", 
     "category": "Partners" 
+  },
+  {
+    "id": 39,
+    "url": "https://t.me/btctma_bot/app?startapp=6657246146",
+    "reward": 5000,
+    "description": "Find 1 Btc",
+    "image": "i/IMG_20250131_210652_768.jpg", 
+    "category": "Main" 
   }
 ]
