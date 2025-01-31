@@ -38,5 +38,53 @@
     "description": "Join Dollars to Cash Channel",
     "image": "i/IMG_20250130_211438_058.jpg", 
     "category": "Main" 
+  },
+  {
+    "id": 23,
+    "url": "https://t.me/captcha_airdrop_bot/start?startapp=5016893238&startApp=5016893238",
+    "reward": 5000,
+    "description": "Play CAPtcha",
+    "image": "i/الي هتعملها كوبي لما ترفع الصوره", 
+    "category": "Partners" 
+  },
+  {
+    "id": 45,
+    "url": "https://t.me/CAPtchaANN",
+    "reward": 5000,
+    "description": "Join CAPtcha TG Channel",
+    "image": "i/الي هتعملها كوبي لما ترفع الصوره", 
+    "category": "Partners" 
+  },
+  {
+    "id": 45,
+    "url": "https://t.me/biztycoon_bot/?startapp=5016893238",
+    "reward": 5000,
+    "description": "Play Biztycoon",
+    "image": "i/الي هتعملها كوبي لما ترفع الصوره", 
+    "category": "Partners" 
+  },
+  {
+    "id": 34,
+    "url": "https://t.me/TonbeeBot?startapp=ref-onywpkm",
+    "reward": 5000,
+    "description": "Play Tonbee",
+    "image": "i/الي هتعملها كوبي لما ترفع الصوره", 
+    "category": "Partners" 
+  },
+  {
+    "id": 46,
+    "url": "https://t.me/nightmares_ckc_bot?start=r487281295",
+    "reward": 5000,
+    "description": "Play SIDESHOW",
+    "image": "i/الي هتعملها كوبي لما ترفع الصوره", 
+    "category": "Partners" 
+  },
+  {
+    "id": 67,
+    "url": "https://t.me/snapx_prod_bot/snapx_app?startapp=ref_QWSDCGYFI5",
+    "reward": 5000,
+    "description": "Join SnapX",
+    "image": "i/الي هتعملها كوبي لما ترفع الصوره", 
+    "category": "Partners" 
   }
 ]
