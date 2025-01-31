@@ -86,5 +86,29 @@
     "description": "Join SnapX",
     "image": "i/Favicon black bg.png", 
     "category": "Partners" 
+  },
+  {
+    "id": 56,
+    "url": "https://t.me/tonton_intract_bot?startapp=PlNuE6",
+    "reward": 5000,
+    "description": "Play TonTon",
+    "image": "i/الي هتعملها كوبي لما ترفع الصوره", 
+    "category": "Partners" 
+  },
+  {
+    "id": 56,
+    "url": "https://t.me/StormTradeBot/academy?startapp=6EwnAXhN3aDh3VxYpP2VPyfcHHMtuq3oqWgAjoXo",
+    "reward": 5000,
+    "description": "Run Storm Trade Bot",
+    "image": "i/الي هتعملها كوبي لما ترفع الصوره", 
+    "category": "Partners" 
+  },
+  {
+    "id": 59,
+    "url": "https://t.me/+ZZfRPrExxT9jMTUy",
+    "reward": النقاط,
+    "description": "Join Storm Trade News",
+    "image": "i/الي هتعملها كوبي لما ترفع الصوره", 
+    "category": "Partners" 
   }
 ]
